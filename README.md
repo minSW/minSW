@@ -9,6 +9,7 @@
 ### I AM 👩🏻‍💻
 
 *Backend Engineer at @NAVER Corp. Shopping DI Dev.*
+
 *(NOV 2019 - Present)*
 
 🌙☕️💻🐢📒
