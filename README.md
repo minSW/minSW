@@ -1,4 +1,20 @@
-### Hi there 👋
+
+<div align="center">
+
+<img  width=360 src="https://user-images.githubusercontent.com/26691216/101163952-c17af100-3677-11eb-8548-f4c6dcfdbd32.JPG"/>
+
+
+## □△○
+
+### I AM 👩🏻‍💻
+
+*Backend Engineer at @NAVER Corp. Shopping DI Dev.*
+*(NOV 2019 - Present)*
+
+🌙☕️💻🐢📒
+🖤🍺🎨
+
+</div>
 
 <!--
 **minSW/minSW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
