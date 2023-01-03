@@ -8,9 +8,12 @@
 
 ### I AM 👩🏻‍💻
 
-*Backend Engineer at @NAVER Corp. Shopping DI Dev.*
+*Backend Engineer at @NAVER Corp. Music Platform Dev.*
+*(Apr 2022 - Present)*
 
-*(NOV 2019 - Present)*
+
+*Data Engineer at @NAVER Corp. Shopping DI Dev.*
+*(Nov 2019 - Apr 2022)*
 
 🌙☕️💻🐢📒
 
