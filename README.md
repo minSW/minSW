@@ -8,9 +8,11 @@
 
 ### I AM 👩🏻‍💻
 
-*Backend Engineer at @NAVER Corp. Music Platform Dev.*
-*(Apr 2022 - Present)*
+*Backend Engineer at @Daangn Market Inc. Chatting Team.*
+*(May 2024 - Present)*
 
+*Backend Engineer at @NAVER Corp. Music Platform Dev.*
+*(Apr 2022 - Apr 2024)*
 
 *Data Engineer at @NAVER Corp. Shopping DI Dev.*
 *(Nov 2019 - Apr 2022)*
