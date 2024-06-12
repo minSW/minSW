@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img  width=360 src="https://user-images.githubusercontent.com/26691216/101171489-31db3f80-3683-11eb-99e1-c53fbb95fac0.jpg"/>
+<img  width=360 src="https://github.com/minSW/minSW/assets/26691216/2b93d5b7-9b61-447b-9b4c-5b28473aedce"/>
 
 
 ## □△○
